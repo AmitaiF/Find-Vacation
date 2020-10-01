@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Image x:Key="Back" Source="..\images\Back.png"/>
+
+    <Image x:Key="Close" Source="..\images\Close.png"/>
+    <Image x:Key="CloseWhite" Source="..\images\Close White.png"/>
+
+    <Image x:Key="LogOut" Source="..\images\LogOut.png"/>
+
+</ResourceDictionary>

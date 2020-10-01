@@ -1,0 +1,165 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "916e43c89fecdccbab909798c31bdabbda4775e8"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BL/1.0.0": {
+        "dependencies": {
+          "BE": "1.0.0",
+          "DAL": "1.0.0",
+          "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
+          "NETStandard.Library": "2.0.1",
+          "VisioForge.DotNet.Core.TRIAL": "11.3.20",
+          "PresentationFramework": "4.0.0.0"
+        },
+        "runtime": {
+          "BL.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.FxCopAnalyzers/2.9.8": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.VersionCheckAnalyzer": "2.9.8",
+          "Microsoft.CodeQuality.Analyzers": "2.9.8",
+          "Microsoft.NetCore.Analyzers": "2.9.8",
+          "Microsoft.NetFramework.Analyzers": "2.9.8"
+        }
+      },
+      "Microsoft.CodeAnalysis.VersionCheckAnalyzer/2.9.8": {},
+      "Microsoft.CodeQuality.Analyzers/2.9.8": {},
+      "Microsoft.NetCore.Analyzers/2.9.8": {},
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NetFramework.Analyzers/2.9.8": {},
+      "NETStandard.Library/2.0.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "VisioForge.DotNet.Core.TRIAL/11.3.20": {
+        "runtime": {
+          "lib/net45/VisioForge.Controls.UI.Dialogs.dll": {},
+          "lib/net45/VisioForge.Controls.UI.dll": {},
+          "lib/net45/VisioForge.Controls.dll": {},
+          "lib/net45/VisioForge.DirectX.dll": {},
+          "lib/net45/VisioForge.MediaFramework.dll": {},
+          "lib/net45/VisioForge.Shared.dll": {},
+          "lib/net45/VisioForge.Tools.dll": {},
+          "lib/net45/VisioForge.Types.dll": {}
+        }
+      },
+      "BE/1.0.0": {
+        "runtime": {
+          "BE.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "BE": "1.0.0",
+          "DS": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      },
+      "DS/1.0.0": {
+        "dependencies": {
+          "BE": "1.0.0"
+        },
+        "runtime": {
+          "DS.dll": {}
+        }
+      },
+      "PresentationFramework/4.0.0.0": {
+        "runtime": {
+          "PresentationFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.FxCopAnalyzers/2.9.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ho8bAAafKYyp5CFwWMVgHQVqZ3IFqxD/+iudVZp/ezWAndgsmXN4sztaf2Bw2jOEkkUVymogGm4KuTywIEk09w==",
+      "path": "microsoft.codeanalysis.fxcopanalyzers/2.9.8",
+      "hashPath": "microsoft.codeanalysis.fxcopanalyzers.2.9.8.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.VersionCheckAnalyzer/2.9.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4e5Fk9ZVF/RqfBS+xIM079iLS1+NhrIQxloe+nMPcaLEC4TGuVrI44qxIZ/rMiSy+MgF76/KvQQVNpXZ/delYA==",
+      "path": "microsoft.codeanalysis.versioncheckanalyzer/2.9.8",
+      "hashPath": "microsoft.codeanalysis.versioncheckanalyzer.2.9.8.nupkg.sha512"
+    },
+    "Microsoft.CodeQuality.Analyzers/2.9.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HOqAr0EhliYuX3B6uKCHJr/kcuyliNd6e52CCnaKpH3YDABIvHnASH4HNHlr5alZZ/tTOHCtvRa/t8I3ezYbJQ==",
+      "path": "microsoft.codequality.analyzers/2.9.8",
+      "hashPath": "microsoft.codequality.analyzers.2.9.8.nupkg.sha512"
+    },
+    "Microsoft.NetCore.Analyzers/2.9.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GCu8pYMUiMQj3z5pqnVSlStEjLIj7u4+ELHeHPyXzZpWTLtKrpYSzRVnxdSKli+HMwtZBBeUdJdm0IdSWXZ6TQ==",
+      "path": "microsoft.netcore.analyzers/2.9.8",
+      "hashPath": "microsoft.netcore.analyzers.2.9.8.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NetFramework.Analyzers/2.9.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ARyOCR0RmzShgKAvzO4FfxBlKV/0uLI7kSztigxt3I5cM2Uxg6TEj/jikydBHAI96omX00vpEFcDpRS8pU2rHg==",
+      "path": "microsoft.netframework.analyzers/2.9.8",
+      "hashPath": "microsoft.netframework.analyzers.2.9.8.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+    },
+    "VisioForge.DotNet.Core.TRIAL/11.3.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JaQffGA8qMDrsG8t6Y4DHGf/2RhfE++Gzra/Ep1fIg0PeL/VRFAVN0Rm7Iv1QvodRx2FZdOECsuN1tpbp5QBmQ==",
+      "path": "visioforge.dotnet.core.trial/11.3.20",
+      "hashPath": "visioforge.dotnet.core.trial.11.3.20.nupkg.sha512"
+    },
+    "BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PresentationFramework/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

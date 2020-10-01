@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<ArrayOfHost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Host>
+    <Username>nathan</Username>
+    <Password>hamou</Password>
+    <MailAddress>nathan@hamou.com</MailAddress>
+    <FirstName>Nathan</FirstName>
+    <LastName>Hamou</LastName>
+    <RegistrationDate>2020-02-12T00:00:00+02:00</RegistrationDate>
+    <Type>Host</Type>
+    <FinishedRegistration>true</FinishedRegistration>
+    <Code>0</Code>
+    <HostKey>10000001</HostKey>
+    <PhoneNumber>0584884123</PhoneNumber>
+    <BankBranchDetails>
+      <BankNumber>99</BankNumber>
+      <BankName>Bank Of Israel</BankName>
+      <BranchNumber>1</BranchNumber>
+      <BranchAddress>Bank Israel, Kiryat Ben Gurion, Jerusale </BranchAddress>
+      <BranchCity>JERUSALEM</BranchCity>
+    </BankBranchDetails>
+    <BankAccountNumber>156</BankAccountNumber>
+    <CollectionClearance>true</CollectionClearance>
+    <MoneyEarned>120</MoneyEarned>
+  </Host>
+  <Host>
+    <Username>123456</Username>
+    <Password>123456</Password>
+    <MailAddress>123456@dsf.fads</MailAddress>
+    <FirstName>123456</FirstName>
+    <LastName>123456</LastName>
+    <RegistrationDate>2020-02-13T00:00:00+02:00</RegistrationDate>
+    <Type>Host</Type>
+    <FinishedRegistration>true</FinishedRegistration>
+    <Code>0</Code>
+    <HostKey>10000002</HostKey>
+    <PhoneNumber>0548896321</PhoneNumber>
+    <BankBranchDetails>
+      <BankNumber>12</BankNumber>
+      <BankName>Bank Hapoalim B.M</BankName>
+      <BranchNumber>479</BranchNumber>
+      <BranchAddress>main st. corner of galilee 0</BranchAddress>
+      <BranchCity>SAKHNIN</BranchCity>
+    </BankBranchDetails>
+    <BankAccountNumber>0</BankAccountNumber>
+    <CollectionClearance>true</CollectionClearance>
+    <MoneyEarned>0</MoneyEarned>
+  </Host>
+  <Host>
+    <Username>amitai123</Username>
+    <Password>farber</Password>
+    <MailAddress>asdf@xcsdf.czs</MailAddress>
+    <FirstName>Amitai</FirstName>
+    <LastName>Farber</LastName>
+    <RegistrationDate>2020-02-13T00:00:00+02:00</RegistrationDate>
+    <Type>Host</Type>
+    <FinishedRegistration>false</FinishedRegistration>
+    <Code>0</Code>
+    <HostKey>10000003</HostKey>
+    <PhoneNumber>0500000000</PhoneNumber>
+    <BankBranchDetails>
+      <BankNumber>0</BankNumber>
+      <BankName />
+      <BranchNumber>0</BranchNumber>
+      <BranchAddress />
+      <BranchCity />
+    </BankBranchDetails>
+    <BankAccountNumber>0</BankAccountNumber>
+    <CollectionClearance>false</CollectionClearance>
+    <MoneyEarned>0</MoneyEarned>
+  </Host>
+</ArrayOfHost>

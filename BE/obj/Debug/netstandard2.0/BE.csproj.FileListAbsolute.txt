@@ -1,0 +1,68 @@
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csproj.CoreCompileInputs.cache
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\dotNet-JCT-5780-project-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csproj.CoreCompileInputs.cache
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb
+C:\Users\afarber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csproj.CoreCompileInputs.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.deps.json
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csprojAssemblyReference.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.csproj.CoreCompileInputs.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfoInputs.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.AssemblyInfo.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BE\obj\Debug\netstandard2.0\BE.pdb

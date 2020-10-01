@@ -1,0 +1,15 @@
+﻿<Application x:Class="PLWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PLWPF"
+             StartupUri="login.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Images.xaml"/>
+                <ResourceDictionary Source="/Resources/Styles.xaml"/>
+                <ResourceDictionary Source="/Resources/Languages/Strings_EN.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

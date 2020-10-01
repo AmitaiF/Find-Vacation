@@ -1,0 +1,115 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF.HostWindows"
+        xmlns:BE="clr-namespace:BE;assembly=BE"
+    xmlns:local1="clr-namespace:PLWPF" x:Class="PLWPF.HostWindows.UpdateHostingUnit"
+        mc:Ignorable="d"
+        Title="Update Hosting Unit" Height="620" Width="535.46" Icon="/PLWPF;component/images/LOGO2.ico" WindowStartupLocation="CenterScreen" Style="{DynamicResource Window}" Foreground="{x:Null}">
+
+    <Window.Resources>
+        <CollectionViewSource x:Key="hostingUnitViewSource"/>
+        <local1:BoolToExtension x:Key="BoolToExtension" />
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="{DynamicResource UpdateHUnit}" HorizontalAlignment="Center" Grid.Row="0" Height="40" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="144,10,145,9" VerticalAlignment="Center" Width="238" Style="{DynamicResource Header}"/>
+
+        <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="24" Margin="6,0,0,0" VerticalAlignment="Center" Width="31" Click="Exit_Click" Style="{DynamicResource ExitButton}"/>
+        <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="24" Margin="45,0,0,0" VerticalAlignment="Center" Width="31" Click="Back_Click" Style="{DynamicResource BackButton}"/>
+        <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="24" Margin="84,0,0,0" VerticalAlignment="Center" Width="46" Click="Log_off_Click" Style="{DynamicResource LogOutButton}"/>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="214*"/>
+                <ColumnDefinition Width="313*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label HorizontalAlignment="Center" Content="Please choose hosting unit:" VerticalAlignment="Center" FontSize="18" Height="36" Width="210" FontFamily="Dubai Light" Margin="0,0,0,380"/>
+            <ComboBox x:Name="HostingUnits" Margin="20,110,20,414" SelectedIndex="0" DisplayMemberPath="HostingUnitName" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Width="174" Height="25" SelectionChanged="HostingUnits_SelectionChanged"/>
+
+            <Grid x:Name="UpdateGrid" VerticalAlignment="Center"  DataContext="{StaticResource hostingUnitViewSource}" HorizontalAlignment="Center" Height="462" Width="282" Margin="8,16,23,52" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+
+                <Label VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Hosting unit Name:"/>
+                <TextBox x:Name="HostingUnitNameTextBox" Width="120" VerticalAlignment="Center" Text="{Binding HostingUnitName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="0" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+
+                <Label VerticalAlignment="Center" Grid.Row="3" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Adults:"/>
+                <TextBox x:Name="adultsTextBox" Width="120" VerticalAlignment="Center" Text="{Binding VacationProperties.Adults, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="3" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+                <Label VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Area:"/>
+                <ComboBox x:Name="areaComboBox" Width="120" VerticalAlignment="Center" SelectedItem="{Binding VacationProperties.Area}" Grid.Row="2" Margin="3" Height="Auto" HorizontalAlignment="Left"  Grid.Column="1"/>
+                <Label VerticalAlignment="Center" Grid.Row="12" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="BBQ:"/>
+                <CheckBox x:Name="bBQCheckBox" VerticalAlignment="Center"  Grid.Row="12" Margin="3" IsChecked="{Binding VacationProperties.BBQ, Mode=TwoWay, Converter={StaticResource BoolToExtension} ,NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="13" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Childern Attractions:"/>
+                <CheckBox x:Name="childernAttractionsCheckBox" VerticalAlignment="Center" Grid.Row="13" Margin="3" IsChecked="{Binding VacationProperties.ChildernAttractions,  Converter={StaticResource BoolToExtension},Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Children:"/>
+                <TextBox x:Name="childrenTextBox" Width="120" VerticalAlignment="Center" Text="{Binding VacationProperties.Children, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="4" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+                <Label VerticalAlignment="Center" Grid.Row="6" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Garden:"/>
+                <CheckBox x:Name="gardenCheckBox" VerticalAlignment="Center" Grid.Row="6" Margin="3" IsChecked="{Binding VacationProperties.Garden, Mode=TwoWay,Converter={StaticResource BoolToExtension}, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="7" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Jacuzzi:"/>
+                <CheckBox x:Name="jacuzziCheckBox" VerticalAlignment="Center" Grid.Row="7" Margin="3" IsChecked="{Binding VacationProperties.Jacuzzi,Converter={StaticResource BoolToExtension}, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="8" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Nearby Kosher Food:"/>
+                <CheckBox x:Name="nearbyKosherFoodCheckBox" VerticalAlignment="Center" Grid.Row="8" Margin="3" IsChecked="{Binding VacationProperties.NearbyKosherFood, Mode=TwoWay, NotifyOnValidationError=true, Converter={StaticResource BoolToExtension},ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="9" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Nearby Restaurant:"/>
+                <CheckBox x:Name="nearbyRestaurantCheckBox" VerticalAlignment="Center" Grid.Row="9" Margin="3" IsChecked="{Binding VacationProperties.NearbyRestaurant,Converter={StaticResource BoolToExtension}, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="10" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Nearby Synagogue:"/>
+                <CheckBox x:Name="nearbySynagogueCheckBox" VerticalAlignment="Center" Grid.Row="10" Margin="3" IsChecked="{Binding VacationProperties.NearbySynagogue,Converter={StaticResource BoolToExtension}, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="11" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Pool:"/>
+                <CheckBox x:Name="poolCheckBox" VerticalAlignment="Center" Grid.Row="11" Margin="3" IsChecked="{Binding VacationProperties.Pool, Mode=TwoWay,Converter={StaticResource BoolToExtension}, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+                <Label VerticalAlignment="Center" Grid.Row="5" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Price:"/>
+                <TextBox x:Name="priceTextBox" Width="120" VerticalAlignment="Center" Text="{Binding VacationProperties.MaxPrice, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="5" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+                <Label VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Type:"/>
+                <ComboBox x:Name="typeComboBox" Width="120" VerticalAlignment="Center"  Grid.Row="1" SelectedItem="{Binding VacationProperties.Type}" Margin="3" Height="Auto" HorizontalAlignment="Left" Grid.Column="1"/>
+            </Grid>
+            <Button x:Name="UpdateButton" Content="{DynamicResource Update}" HorizontalAlignment="Center" Margin="0,490,0,0" VerticalAlignment="Top" Width="80" Height="25" Click="Update_click" Background="#FFA9BFC0" Grid.Column="1" FontFamily="Berlin Sans FB Demi" FontSize="14">
+                <Button.Style>
+                    <Style>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=HostingUnitNameTextBox, Path=Text}" Value="">
+                                <Setter Property="Button.IsEnabled" Value="false"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding ElementName=priceTextBox, Path=Text}" Value="">
+                                <Setter Property="Button.IsEnabled" Value="false"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding ElementName=adultsTextBox, Path=Text}" Value="">
+                                <Setter Property="Button.IsEnabled" Value="false"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding ElementName=childrenTextBox, Path=Text}" Value="">
+                                <Setter Property="Button.IsEnabled" Value="false"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button x:Name="button" Content="{DynamicResource DeleteHU}" HorizontalAlignment="Center" Margin="0,230,0,0" VerticalAlignment="Top" Width="126" Height="34" Click="DeleteHostingUnit_Click" Style="{DynamicResource MediumButtonStyle}"/>
+
+        </Grid>
+    </Grid>
+</Window>

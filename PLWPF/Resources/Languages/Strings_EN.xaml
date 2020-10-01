@@ -1,0 +1,47 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PLWPF.Resources.Languages" xmlns:System="clr-namespace:System;assembly=mscorlib">
+
+    <System:String x:Key="Login">Login</System:String>
+    <System:String x:Key="Register">Register</System:String>
+    <System:String x:Key="ForgotPass">forget password</System:String>
+    <System:String x:Key="Username">Username</System:String>
+    <System:String x:Key="Password">Password</System:String>
+    <System:String x:Key="GetBanks">Get Banks</System:String>
+    <System:String x:Key="HostsStats">Hosts info</System:String>
+    <System:String x:Key="UserStats">Users info</System:String>
+    <System:String x:Key="GuestsStats">Guest Requests info</System:String>
+    <System:String x:Key="OrderStats">Orders info</System:String>
+    <System:String x:Key="MoneyStats">Money info</System:String>
+    <System:String x:Key="HostingUnitStats">Hosting Units info</System:String>
+    <System:String x:Key="HostStatistics">Hosts Information</System:String>
+    <System:String x:Key="UserStatistics">Users Information</System:String>
+    <System:String x:Key="Add">Add</System:String>
+    <System:String x:Key="AddNewGR">Add New Guest Request</System:String>
+    <System:String x:Key="AddGR">Add a Request</System:String>
+    <System:String x:Key="WatchOfferedHU">Watch offered hosting unit</System:String>
+    <System:String x:Key="WelcomeGuest">Welcome *user*!</System:String>
+    <System:String x:Key="WatchHU">Watch Hosting Unit</System:String>
+    <System:String x:Key="WatchOfferedO">Watch Offered Orders</System:String>
+    <System:String x:Key="AddO">Add Order</System:String>
+    <System:String x:Key="WatchO">Watch Orders</System:String>
+    <System:String x:Key="UpdateHU">Update Hosting Units</System:String>
+    <System:String x:Key="AddHU">Add Hosting Unit</System:String>
+    <System:String x:Key="AddOrder">Add Order</System:String>
+    <System:String x:Key="HostRegistration">Host Registration</System:String>
+    <System:String x:Key="ChooseBank">Choose Bank</System:String>
+    <System:String x:Key="FinishRegistration">Finish registration</System:String>
+    <System:String x:Key="UpdateHUnit">Update Hosting Unit</System:String>
+    <System:String x:Key="DeleteHU">Delete Hosting Unit</System:String>
+    <System:String x:Key="Update">Update</System:String>
+    <System:String x:Key="UpdateO">Update Order</System:String>
+    <System:String x:Key="WatchHUs">Watch Hosting Units</System:String>
+    <System:String x:Key="EnterMail">Please enter your mail in the text box below. We will send you a mail with a confirmation code.</System:String>
+    <System:String x:Key="EnterCode">We have send you a code to your mail. Please check your inbox and enter the code below. the code will expire in 2 minutes.</System:String>
+    <System:String x:Key="Send">Send</System:String>
+    <System:String x:Key="Confirm">Confirm</System:String>
+    <System:String x:Key="GuestRequestInfo">Guest Requests Information</System:String>
+    <System:String x:Key="OrderInfo">Order Information</System:String>
+    <System:String x:Key="MoneyInfo">Money Information</System:String>
+
+</ResourceDictionary>

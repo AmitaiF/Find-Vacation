@@ -1,0 +1,84 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF.AdminWindows"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.AdminWindows.UsersStatsWindow"
+        mc:Ignorable="d"
+        Title="Users Stats Window" Height="450" Width="800" Loaded="Window_Loaded" Icon="/PLWPF;component/images/LOGO2.ico" WindowStartupLocation="CenterScreen" Style="{DynamicResource Window}">
+    <Window.Resources>
+        <CollectionViewSource x:Key="userViewSource"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="{DynamicResource UserStatistics}" HorizontalAlignment="Center" Grid.Row="0" Height="47" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="186,7,170,1" VerticalAlignment="Center" Width="436" Style="{DynamicResource Header}"/>
+
+        <Label x:Name="GroupLable" Content="Group by:" HorizontalAlignment="Left" Height="32" Margin="37,10,0,10" Grid.Row="1" VerticalAlignment="Center" Width="93" FontSize="18"/>
+        <ComboBox x:Name="GroupByComboBox" HorizontalAlignment="Left" Margin="140,0,0,0" Grid.Row="1" SelectedIndex="0" VerticalAlignment="Center" Width="120" SelectionChanged="SearchByComboBox_SelectionChanged"/>
+
+        <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="24" Margin="6,20,0,0" VerticalAlignment="Top" Width="31" Click="Exit_Click" Style="{DynamicResource ExitButton}"/>
+        <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="24" Margin="45,20,0,0" VerticalAlignment="Top" Width="31" Click="Back_Click" Style="{DynamicResource BackButton}"/>
+        <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="24" Margin="84,20,0,0" VerticalAlignment="Top" Width="46" Click="Log_off_Click" Style="{DynamicResource LogOutButton}"/>
+        <ScrollViewer x:Name="UsersView" Grid.Row="2">
+            <Grid x:Name="UsersGrid" Grid.Row="2" DataContext="{StaticResource userViewSource}">
+                <DataGrid x:Name="userDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" CanUserAddRows="False" Margin="0" ItemsSource="{Binding}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" EnableRowVirtualization="True" AutoGenerateColumns="False" Background="LightSteelBlue">
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn x:Name="usernameColumn" Width="2*" Header="Username">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Username}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn x:Name="firstNameColumn" Width="2*" Header="First Name">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding FirstName}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn x:Name="lastNameColumn" Width="2*" Header="Last Name">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding LastName}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn x:Name="mailAddressColumn" Width="2.5*" Header="Mail Address">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding MailAddress}"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn x:Name="registrationDateColumn" Width="2*" Header="Registration Date">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock>
+                                        <TextBlock.Text>
+                                            <MultiBinding StringFormat="{}{0}/{1}/{2}">
+                                                <Binding Path="RegistrationDate.Day" />
+                                                <Binding Path="RegistrationDate.Month" />
+                                                <Binding Path="RegistrationDate.Year" />
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridCheckBoxColumn x:Name="finishedRegistrationColumn" Width="*" Header="Finished Registration" Binding="{Binding FinishedRegistration}"/>
+                        <DataGridTextColumn x:Name="typeColumn" Width="*" Header="Type" Binding="{Binding Type}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </Grid>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

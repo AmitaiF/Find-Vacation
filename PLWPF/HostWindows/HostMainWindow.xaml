@@ -1,0 +1,36 @@
+﻿<Window x:Class="PLWPF.HostMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Host Home Page" Height="450" Width="800" Icon="/PLWPF;component/images/LOGO2.ico" WindowStartupLocation="CenterScreen" Style="{DynamicResource Window}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" HorizontalAlignment="Left" Height="30" Margin="23,19,0,0" VerticalAlignment="Top" Width="50" Click="Exit_Click" Style="{DynamicResource ExitButton}"/>
+        <Button Grid.Row="0" HorizontalAlignment="Left" Height="30" Margin="80,19,0,0" VerticalAlignment="Top" Width="50" Click="Log_off_Click" Style="{DynamicResource LogOutButton}"/>
+        <TextBlock x:Name="MoneyEarned" Grid.Row="0" Text="You earned: " HorizontalAlignment="Left" Height="28" Margin="550,19,0,0" VerticalAlignment="Top" Width="232"/>
+        <TextBlock x:Name="Welcome" HorizontalAlignment="Left" Height="50" Margin="34,20,0,0" Grid.Row="1" TextAlignment="Center" TextWrapping="Wrap" Text="{DynamicResource WelcomeGuest}" VerticalAlignment="Top" Width="732" Style="{DynamicResource WelcomeText}"/>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="OrderBtn" Grid.Column="0" Grid.Row="0" Content="{DynamicResource WatchO}" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="239" Height="84" FontSize="20" Click="WatchOrders_Click" Style="{DynamicResource ButtonStyle}"/>
+            <Button Grid.Column="0" Grid.Row="1" Content="{DynamicResource AddOrder}" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="239" Height="84" FontSize="20" Click="AddOrder_Click" Style="{DynamicResource ButtonStyle}"/>
+            <Button Grid.Column="1" Grid.Row="0" Content="{DynamicResource UpdateHU}" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Width="239" Height="84" FontSize="20" Click="WatchHostingUnit_Click" Style="{DynamicResource ButtonStyle}"/>
+            <Button Grid.Column="1" Grid.Row="1" Content="{DynamicResource AddHU}" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="239" Height="84" FontSize="20" Click="AddHostingUnitWindow_Click" Style="{DynamicResource ButtonStyle}"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

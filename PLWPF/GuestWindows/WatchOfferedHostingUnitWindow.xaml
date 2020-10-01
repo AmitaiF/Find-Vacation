@@ -1,0 +1,19 @@
+﻿<Window x:Class="PLWPF.GuestWindows.WatchOfferedHostingUnitWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="WatchOfferedHostingUnitWindow" Height="550" Width="900">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Button x:Name="Back" Content="Back" Click="Back_Click"  HorizontalAlignment="Left" Width="81" RenderTransformOrigin="1.276,0.596" Margin="10,0,0,55.4" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+        <Label HorizontalAlignment="Center" VerticalAlignment="Center" IsEnabled="False" FontSize="22">Hello, here is all the offers that you got.</Label>
+        <DataGrid  x:Name="OffersGrid" Grid.Row="1" ItemsSource="{Binding offers}" CanUserDeleteRows="True" IsReadOnly="True" >
+        </DataGrid>
+    </Grid>
+</Window>

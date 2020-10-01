@@ -1,0 +1,815 @@
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\netstandard.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.AppContext.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Specialized.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Console.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Data.Common.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Pipes.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Expressions.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Parallel.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Queryable.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Http.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NameResolution.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Ping.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Requests.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Security.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Sockets.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.ObjectModel.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Reader.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Writer.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Handles.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Claims.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Principal.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.SecureString.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Thread.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Timer.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XDocument.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe.config
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOfferedHostingUnitWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOfferedHostingUnitWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\AdminMainWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchGuestRequestsWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\Login.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\AdminMainWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchGuestRequestsWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\Login.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.baml
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.g.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\netstandard.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.AppContext.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Specialized.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Console.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Data.Common.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Pipes.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Expressions.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Parallel.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Queryable.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Http.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NameResolution.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Ping.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Requests.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Security.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Sockets.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ObjectModel.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Reader.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Writer.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Handles.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Claims.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Principal.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.SecureString.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Thread.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Timer.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XDocument.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe.config
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Login.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Login.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestsStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostingUnitsStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.g.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\App.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestsStatsWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostingUnitsStatsWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Styles.baml
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Images.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\netstandard.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.AppContext.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Specialized.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Console.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Data.Common.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Pipes.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Expressions.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Parallel.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Queryable.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Http.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NameResolution.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Ping.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Requests.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Security.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Sockets.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ObjectModel.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Reader.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Writer.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Handles.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Claims.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Principal.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.SecureString.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Thread.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Timer.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XDocument.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe.config
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Images.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostingUnitsStatsWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Login.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\App.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostingUnitsStatsWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Login.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Styles.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\BankBranchWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\BankBranchWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\netstandard.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.AppContext.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Specialized.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Console.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Data.Common.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Pipes.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Expressions.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Parallel.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Queryable.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Http.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NameResolution.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Ping.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Requests.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Security.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Sockets.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ObjectModel.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Reader.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Writer.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Handles.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Claims.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Principal.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.SecureString.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Thread.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Timer.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XDocument.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe.config
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\BankBranchWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Images.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\BankBranchWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Login.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\App.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Login.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Styles.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Languages\Strings_EN.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Languages\Strings_HE.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\ForgotPasswordWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\ForgotPasswordWindow.baml
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestRequestsStatsWindow.g.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestRequestsStatsWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestRequestsStatsWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\ForgotPasswordWindow.g.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestRequestsStatsWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\ForgotPasswordWindow.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Languages\Strings_EN.baml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Languages\Strings_HE.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\netstandard.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.AppContext.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Collections.Specialized.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Console.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Data.Common.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.Pipes.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Expressions.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Parallel.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Linq.Queryable.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Http.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NameResolution.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Ping.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Requests.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Security.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.Sockets.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Net.WebSockets.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ObjectModel.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Reader.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Resources.Writer.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Handles.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Claims.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.Principal.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Security.SecureString.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Thread.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Threading.Timer.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XDocument.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe.config
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\BankBranchWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Images.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestRequestsStatsWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\BankBranchWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\ForgotPasswordWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchOrdersWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Login.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\App.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\GuestRequestsStatsWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\HostsStatsWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\MoneyStatsWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\OrdersStatsWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\UsersStatsWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\ForgotPasswordWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\AddGuestRequestWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\WatchHostingUnitWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddHostingUnitWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\AdminWindows\AdminMainWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostMainWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\HostRegistrationWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateHostingUnit.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\UpdateOrderWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchHostingUnitWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\WatchOrdersWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Login.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\GuestWindows\GuestMainWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\HostWindows\AddOrderWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\RegisterWindow.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Languages\Strings_EN.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Languages\Strings_HE.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\Resources\Styles.baml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\PLWPF\obj\Debug\PLWPF.pdb

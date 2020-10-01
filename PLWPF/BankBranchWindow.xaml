@@ -1,0 +1,20 @@
+﻿<Window x:Class="PLWPF.BankBranchWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Bank Branch Window" Height="362.963" Width="741.976" Style="{DynamicResource Window}" WindowStartupLocation="CenterScreen" Icon="images/LOGO2.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="179*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="24" Margin="6,10,0,0" VerticalAlignment="Top" Width="31" Click="Back_Click" Style="{DynamicResource BackButton}"/>
+        <DataGrid x:Name="banksDatagrid" HorizontalAlignment="Left" Height="223" Margin="42,37,0,0" MouseDoubleClick="banksDatagrid_MouseDoubleClick" IsReadOnly="True" VerticalAlignment="Top" Width="398" ItemsSource="{Binding}"/>
+        <Button x:Name="populateBanksBtn" Content="{DynamicResource GetBanks}" HorizontalAlignment="Left" Margin="42,277,0,0" VerticalAlignment="Top" Width="131" Height="40" Click="populateBanksBtn_Click" FontSize="16" FontWeight="Bold" Style="{DynamicResource ButtonStyle}"/>
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="27" Margin="209,277,0,0" VerticalAlignment="Top" Width="231" Maximum="100"/>
+        <ComboBox x:Name="comboBoxBanks" HorizontalAlignment="Left" Margin="470,37,0,0" VerticalAlignment="Top" Width="187" ItemsSource="{Binding}" SelectionChanged="comboBoxBanks_SelectionChanged"/>
+    </Grid>
+</Window>

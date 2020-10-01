@@ -1,0 +1,47 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PLWPF.Resources.Languages" xmlns:System="clr-namespace:System;assembly=mscorlib">
+
+    <System:String x:Key="Login">התחבר</System:String>
+    <System:String x:Key="Register">הירשם</System:String>
+    <System:String x:Key="ForgotPass">שכחתי סיסמה</System:String>
+    <System:String x:Key="Username">שם משתמש</System:String>
+    <System:String x:Key="Password">סיסמה</System:String>
+    <System:String x:Key="GetBanks">קבל בנקים</System:String>
+    <System:String x:Key="HostsStats">מארחים</System:String>
+    <System:String x:Key="UserStats">משתמשים</System:String>
+    <System:String x:Key="GuestsStats">בקשות אירוח</System:String>
+    <System:String x:Key="OrderStats">הזמנות</System:String>
+    <System:String x:Key="MoneyStats">רווחים</System:String>
+    <System:String x:Key="HostingUnitStats">יחידות אירוח</System:String>
+    <System:String x:Key="HostStatistics">מידע על מארחים</System:String>
+    <System:String x:Key="UserStatistics">מידע על משתמשים</System:String>
+    <System:String x:Key="Add">הוסף</System:String>
+    <System:String x:Key="AddNewGR">הוסף בקשת אירוח חדשה</System:String>
+    <System:String x:Key="AddGR">הוסף בקשה</System:String>
+    <System:String x:Key="WatchOfferedHU">צפה ביחידות אירוח מוצעות</System:String>
+    <System:String x:Key="WelcomeGuest">ברוך הבא!</System:String>
+    <System:String x:Key="WatchHU">צפה ביחידת אירוח</System:String>
+    <System:String x:Key="WatchOfferedO">צפה בהזמנות מוצעות</System:String>
+    <System:String x:Key="AddO">הוסף הזמנה</System:String>
+    <System:String x:Key="WatchO">צפה בהזמנות</System:String>
+    <System:String x:Key="UpdateHU">עדכן יחידות אירוח</System:String>
+    <System:String x:Key="AddHU">הוסף יחידת אירוח</System:String>
+    <System:String x:Key="AddOrder">הוסף הזמנה</System:String>
+    <System:String x:Key="HostRegistration">הרשמת מארח</System:String>
+    <System:String x:Key="ChooseBank">בחר בנק</System:String>
+    <System:String x:Key="FinishRegistration">סיים הרשמה</System:String>
+    <System:String x:Key="UpdateHUnit">עדכן יחידת אירוח</System:String>
+    <System:String x:Key="DeleteHU">מחק יחידות אירוח</System:String>
+    <System:String x:Key="Update">עדכן</System:String>
+    <System:String x:Key="UpdateO">עדכן הזמנה</System:String>
+    <System:String x:Key="WatchHUs">צפה ביחידות אירוח</System:String>
+    <System:String x:Key="EnterMail">בבקשה הזן את כתובת המייל שלך בתיבת הטקסט. אנחנו נשלח לך מייל עם קוד אימות</System:String>
+    <System:String x:Key="EnterCode">שלחנו לך מייל עם קוד אימות. בבקשה בדוק את תיבת המייל שלך והזן את קוד האימות בתיבה למטה</System:String>
+    <System:String x:Key="Send">שלח</System:String>
+    <System:String x:Key="Confirm">אשר</System:String>
+    <System:String x:Key="GuestRequestInfo">מידע על בקשות אירוח</System:String>
+    <System:String x:Key="OrderInfo">מידע על הזמנות</System:String>
+    <System:String x:Key="MoneyInfo">מידע על רווחים</System:String>
+
+</ResourceDictionary>

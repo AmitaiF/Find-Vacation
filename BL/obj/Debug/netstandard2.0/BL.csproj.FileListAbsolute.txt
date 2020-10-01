@@ -1,0 +1,155 @@
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\DS.dll
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\nathan\dotNet-JCT-5780-project-master\Airbnb-2.0\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.dll
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\amitai farber\Desktop\קבצים\לימודים\אקדמיה\תשפ\מיני פרויקט במערכות חלונות\dotNet-JCT-5780-project-master-master\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.dll
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\afarber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\nathan\3D Objects\ProjectDotNet5780 ___2\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\amitai farber\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationFramework.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Xaml.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\WindowsBase.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationCore.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\ReachFramework.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Printing.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationFramework.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Xaml.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\WindowsBase.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationCore.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\ReachFramework.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Printing.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\amitai farber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationFramework.dll
+C:\Users\catari\Desktop\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationFramework.xml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationFramework.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\bin\Debug\netstandard2.0\PresentationFramework.xml
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\afarber\Desktop\Project with XML\ProjectDotNet5780\BL\obj\Debug\netstandard2.0\BL.pdb

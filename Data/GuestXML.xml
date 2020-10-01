@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Guest>
+    <Username>amitai</Username>
+    <Password>farber</Password>
+    <MailAddress>amitaifar@gmail.com</MailAddress>
+    <FirstName>Amitai</FirstName>
+    <LastName>Farber</LastName>
+    <RegistrationDate>2020-02-12T00:00:00+02:00</RegistrationDate>
+    <Type>Guest</Type>
+    <FinishedRegistration>true</FinishedRegistration>
+    <Code>22509</Code>
+  </Guest>
+</ArrayOfGuest>

@@ -1,0 +1,68 @@
+﻿<Window x:Class="PLWPF.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Login" Height="550" Width="400"
+        AllowsTransparency="True" Background="Transparent" 
+       WindowStyle="None" Icon="images/LOGO2.ico" WindowStartupLocation="CenterScreen" >
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1.15*"/>
+            </Grid.RowDefinitions>
+            <Border CornerRadius="25" Grid.RowSpan="2">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="LightSteelBlue" Offset="0"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <ComboBox x:Name="Lang" HorizontalAlignment="Left" Height="25" Margin="291,26,0,0" VerticalAlignment="Top" Width="77" SelectionChanged="Lang_SelectionChanged"/>
+            </Border>
+            <Button Grid.Row="0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="43" Margin="31,25,0,0" VerticalAlignment="Top" Width="38" Click="Exit_Click" Style="{DynamicResource ExitButton}"/>
+            <StackPanel VerticalAlignment="Center" Height="232" Margin="0,0,0,217.6" Grid.RowSpan="2">
+                <Image Source="images/LOGO3.png" Height="179" Width="250" VerticalAlignment="Center" Margin="0,0,10,0" RenderTransformOrigin="0.5,0.5" >
+                </Image>
+                <TextBlock Text="{DynamicResource Login}" TextAlignment="Center" HorizontalAlignment="Center" FontWeight="Light" Width="240" Height="40" FontFamily="helvetica" FontSize="27" Foreground="White" Margin="80,0" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" HorizontalAlignment="Center" Margin="0,10.8,0,-0.4" >
+                <StackPanel Orientation="Horizontal">
+                    <TextBox x:Name="username" GotFocus="username_GotFocus" FontFamily="Helvetica" FontWeight="Light" Text="{DynamicResource Username}" FontSize="20" HorizontalAlignment="Center" Foreground="White" Background="Transparent" BorderThickness="0" Width="235" HorizontalContentAlignment="Left" Opacity="0.5" Height="25" Margin="63,0,0,0" BorderBrush="{x:Null}"/>
+                </StackPanel>
+
+                <Border Width="250" Height="2" Background="White" Opacity="0.5"/>
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <PasswordBox x:Name="password" GotFocus="password_GotFocus" FontFamily="Helvetica" FontWeight="Light" Password="{StaticResource Password}" FontSize="20" HorizontalAlignment="Center" Foreground="White" Background="Transparent" BorderThickness="0" Width="235" HorizontalContentAlignment="Left" Opacity="0.5" Height="25" Margin="63,0,0,0" BorderBrush="{x:Null}"/>
+                </StackPanel>
+
+                <Border Width="250" Height="2" Background="White" Opacity="0.5"/>
+                <Button Content="{DynamicResource ForgotPass}" Width="96"   Height="23" VerticalAlignment="Bottom" Background="Transparent" HorizontalAlignment="Center"   Margin="142,22" Click="ForgotPassword_Click" Style="{DynamicResource Link}"   >
+                </Button>
+
+                <StackPanel Orientation="Horizontal" Width="250" HorizontalAlignment="Center">
+                    <Button x:Name="Login_button" Width="100" Height="40" Content="{DynamicResource Login}" Background="#00000000" HorizontalAlignment="Left" FontFamily="helvetica" Click="Login_Click" />
+                    <Canvas Width="50"></Canvas>
+                    <Button Width="100" Height="40" Content="{DynamicResource Register}" Background="Transparent" Click="Register_Click" />
+                </StackPanel>
+            </StackPanel>
+
+            <Grid Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" Width="150" Height="50" Margin="0,220,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Background="Transparent" Click="Instagram_Click" Height="52" Width="53">
+                    <Image Source="images/instagram.png" Height="44"  Width="43" HorizontalAlignment="Left"></Image>
+                </Button>
+                <Button Grid.Column="1" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Background="Transparent" Click="Facebook_Click" Height="52" Width="53">
+                    <Image Source="images/facebook.png" Height="44"  Width="53" HorizontalAlignment="Left"></Image>
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
