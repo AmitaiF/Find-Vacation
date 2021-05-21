@@ -1,4 +1,4 @@
-# Find-A-Vacation
+# Find-Vacation
 A WPF system made for a "Mini Project in Windows Systems" course.
 
 The program is made in .NET environment, and it based on the three-tier architecture.
