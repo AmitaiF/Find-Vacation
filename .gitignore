@@ -43,3 +43,10 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+
+*.sln
+*.csprog
+*.csprog.user
+[Tt]humbs.db
+ProjectDotNet5780/
