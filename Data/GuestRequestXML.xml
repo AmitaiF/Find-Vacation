@@ -759,4 +759,37 @@
       <Code>22509</Code>
     </Guest>
   </GuestRequest>
+  <GuestRequest>
+    <GuestRequestKey>10000030</GuestRequestKey>
+    <Status>Active</Status>
+    <RegistrationDate>2020-02-12T00:00:00+02:00</RegistrationDate>
+    <EntryDate>2021-12-12T00:00:00+02:00</EntryDate>
+    <ReleaseDate>2021-12-13T00:00:00+02:00</ReleaseDate>
+    <VacationProperties>
+      <Area>Jerusalem</Area>
+      <Type>Hotel</Type>
+      <Adults>6</Adults>
+      <Children>1</Children>
+      <Pool>Unintrested</Pool>
+      <Jacuzzi>Unintrested</Jacuzzi>
+      <Garden>Unintrested</Garden>
+      <ChildernAttractions>Unintrested</ChildernAttractions>
+      <NearbyRestaurant>Unintrested</NearbyRestaurant>
+      <NearbySynagogue>Possible</NearbySynagogue>
+      <BBQ>Unintrested</BBQ>
+      <NearbyKosherFood>Unintrested</NearbyKosherFood>
+      <MaxPrice>450</MaxPrice>
+    </VacationProperties>
+    <Guest>
+      <Username>amitai</Username>
+      <Password>farber</Password>
+      <MailAddress>amitai@gmail.com</MailAddress>
+      <FirstName>Amitai</FirstName>
+      <LastName>Farber</LastName>
+      <RegistrationDate>2020-02-12T00:00:00+02:00</RegistrationDate>
+      <Type>Guest</Type>
+      <FinishedRegistration>true</FinishedRegistration>
+      <Code>22509</Code>
+    </Guest>
+  </GuestRequest>
 </ArrayOfGuestRequest>
