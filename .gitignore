@@ -46,7 +46,7 @@ bld/
 
 
 *.sln
-*.csprog
+*.csproj
 *.csprog.user
 [Tt]humbs.db
 ProjectDotNet5780/
